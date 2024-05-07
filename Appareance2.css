@@ -1,0 +1,60 @@
+
+h1 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+  font-size: 28px; /* Adjust font size as needed */
+  text-align: center;
+  margin-top:60px
+}
+h2 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+  font-size: 28px; /* Adjust font size as needed */
+  text-align: center;
+  margin-top:26px
+}
+h3 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+  font-size: 24px; /* Adjust font size as needed */
+  text-align: center;
+  margin-top:25px
+}
+p {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px; /* Adjust font size as needed */
+  text-align: center;
+  margin-top: 20px; 
+  margin-left: 50px; /* Adjust left margin */
+  margin-right: 50px; /* Adjust right margin */
+}
+    div{
+        position: fixed;
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        padding: 10px;
+        color: white;
+        background: color #333;;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      }
+      .image1 {
+        position: absolute;
+        width: 100%;
+        height: auto;
+        z-index: -1; 
+        opacity: 0.5; 
+        top: 30px;
+      }
+      .image2 {
+        width: 450px; /* Adjust width as needed */
+        display: block; /* Make image a block element */
+        margin: 0 auto; /* Center horizontally */
+        margin-top: 20px; /* Adjust vertical margin as needed */
+    }
+    .image3 {
+      width: 450px; /* Adjust width as needed */
+      display: block; /* Make image a block element */
+      margin: 0 auto; /* Center horizontally */
+      margin-top: 20px; /* Adjust vertical margin as needed */
+  }
